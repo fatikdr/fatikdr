@@ -1,9 +1,9 @@
 <html>
 <center>
-<a href="http://aarau.xyz/r.php?[idEnvoi]_[idCompte]_[idIp]_[token]"><img src="http://aarau.xyz/[idCreative]"/></a>
+<a href="http://aarau.xyz/r.php?[idEnvoi]_[idCompte]_[idIp]_[token]"><image src="http://aarau.xyz/[idCreative]"/></a>
 <br/>
-<a href="http://aarau.xyz/o.php?[idEnvoi]_[idCompte]_[idIp]_[token]"><img src="http://aarau.xyz/[idCreative]/[idEnvoi]/[idCompte]/[idIp]"/></a>
+<a href="http://aarau.xyz/o.php?[idEnvoi]_[idCompte]_[idIp]_[token]"><image src="http://aarau.xyz/[idCreative]/[idEnvoi]/[idCompte]/[idIp]"/></a>
 <br/>
-<a href="http://aarau.xyz/unsub/?[token]/[idEnvoi]/[idCompte]/[idIp]"><img src="http://aarau.xyz/[token]/[idEnvoi]/[idCompte]/[idIp]"/></a>
+<a href="http://aarau.xyz/unsub/?[token]/[idEnvoi]/[idCompte]/[idIp]"><image src="http://aarau.xyz/[token]/[idEnvoi]/[idCompte]/[idIp]"/></a>
 </center>
 </html>
